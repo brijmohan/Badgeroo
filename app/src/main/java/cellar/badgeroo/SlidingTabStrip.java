@@ -1,4 +1,4 @@
-package samples.exoguru.materialtabs;
+package cellar.badgeroo;
 
 import android.R;
 import android.content.Context;

@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Material Tabs</string>
+    <string name="app_name">Badgeroo</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_login">Sign In / Register</string>
 </resources>
