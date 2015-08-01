@@ -74,9 +74,9 @@ public class MainActivity extends ActionBarActivity {
 
     @Override
     public boolean onPrepareOptionsMenu(Menu menu) {
-        MenuItem unameItem = menu.findItem(R.id.viewusername);
-        TextView showuname = (TextView) unameItem.getActionView();
-        showuname.setText("Hi " + username + "!");
+        //MenuItem unameItem = menu.findItem(R.id.viewusername);
+        //TextView showuname = (TextView) unameItem.getActionView();
+        //showuname.setText("Hi " + username + "!");
         return super.onPrepareOptionsMenu(menu);
     }
 
